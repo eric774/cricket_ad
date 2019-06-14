@@ -1,0 +1,19 @@
+body{
+	background: darkblue;
+	color: white;
+}
+.indent{
+	color: yellow;
+	font-family: 'Glyphicons Halflings';
+}
+.left{
+	
+}
+.right{
+	 
+}
+.responsive{
+display: inline-flex;
+
+
+}
